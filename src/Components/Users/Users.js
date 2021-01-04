@@ -33,7 +33,7 @@ class User extends Component {
                     <p> {v.IsDeleted.toString()}</p>
                             <Card.Text>
                                 Some quick example text to build on the card title and make up the bulk
-                                of the card's content.
+                                of the card's content notinh really added here.
                             </Card.Text>
                         </Card.Body>
                     </Card>
