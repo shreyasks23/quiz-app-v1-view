@@ -1,6 +1,5 @@
-//import config from 'config';
 import { authHeader } from '../_helpers/authHeaders';
-//import $ from 'jquery';
+
 
 function login(userName, password) {
     const requestOptions = {
